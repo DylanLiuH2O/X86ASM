@@ -7,6 +7,7 @@
 [课后检测题答案](http://www.lizhongc.com/x86asm/download/%BC%EC%B2%E2%B5%E3%BA%CD%CF%B0%CC%E2%B4%F0%B0%B8.txt)  
 [IBM Linux汇编语言开发指南](https://www.ibm.com/developerworks/cn/linux/l-assembly/index.html)  
 [Intel 80386 Programmer's Reference Manual](http://www.logix.cz/michal/doc/i386/)  
+[Intel 80386 Programmer's Reference Manual PDF版](https://github.com/DylanLiuH2O/X86ASM/blob/main/PDF/i386.pdf)
     
 ## 常用工具
 [VirtualBox虚拟机](https://www.virtualbox.org/)  
